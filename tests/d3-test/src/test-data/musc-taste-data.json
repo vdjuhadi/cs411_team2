@@ -1,0 +1,614 @@
+{
+    "Elisson" : {
+        "Tigran Hamasyan": {
+            "name": "Tigran Hamasyan",
+            "image": "https://i.scdn.co/image/bfaf5778d577873a79b3cbfd9436eeabac7227a2",
+            "genres": ["jazz", "metal"]
+        },
+        "Noisia": {
+            "name": "Noisia",
+            "image": "https://i.scdn.co/image/557ff5a42a6521e32c5907ea8e0b02b0f3d6e356",
+            "genres": ["electronic"]
+        },
+        "Mr. Bill": {
+            "name": "Mr. Bill",
+            "image": "https://i.scdn.co/image/33b38cf6c8b9f624670a10966515aba7e16a8981",
+            "genres": ["electronic"]
+        },
+        "Meshuggah": {
+            "name": "Meshuggah",
+            "image": "https://i.scdn.co/image/ab6772690000bac3290beee3ed0d39aed7fa7107",
+            "genres": ["metal"]
+        },
+        "TesseracT": {
+            "name": "TesseracT",
+            "image": "https://i.scdn.co/image/69613b28d8aaf618494f0423d38e0f8675fc44c7",
+            "genres": ["metal"]
+        },
+        "Haken": {
+            "name": "Haken",
+            "image": "https://i.scdn.co/image/e31f999e5f11883067bfdfd51864945cb9843e9c",
+            "genres": ["metal"]
+        },
+        "El Prodigio": {
+            "name": "El Prodigio",
+            "image": "https://i.scdn.co/image/28aa0e8fb35d202bbb636601fd9b06b12d4da40a",
+            "genres": ["latin"]
+        },
+        "Leprous": {
+            "name": "Leprous",
+            "image": "https://i.scdn.co/image/41b62b7e52f6d44330c92d8ec1a45c2423a085ad",
+            "genres": ["metal"]
+        },
+        "KOAN Sound": {
+            "name": "KOAN Sound",
+            "image": "https://i.scdn.co/image/fdc9e8e05211214c8a4e06d9fa5f59a40e5abf78",
+            "genres": ["electronic"]
+        },
+        "Alfredo Rodriguez": {
+            "name": "Alfredo Rodriguez",
+            "image": "https://i.scdn.co/image/b35d84acc21f7e7a7f8eaf2f1534d26465d9c850",
+            "genres": ["jazz", "latin"]
+        },
+        "Animals As Leaders": {
+            "name": "Animals As Leaders",
+            "image": "https://i.scdn.co/image/00fe9e7e4353d913c0d3d2623adf48ad932838a7",
+            "genres": ["jazz", "metal"]
+        },
+        "Virtual Riot": {
+            "name": "Virtual Riot",
+            "image": "https://i.scdn.co/image/ce73e164878cdbd9e90e0dc790fe309a31a45ec8",
+            "genres": ["electronic"]
+        },
+        "Culprate": {
+            "name": "Culprate",
+            "image": "https://i.scdn.co/image/d0bb6d828d38d37306b1e727fc4a4e6e16296e6b",
+            "genres": ["electronic"]
+        },
+        "The Contortionist": {
+            "name": "The Contortionist",
+            "image": "https://i.scdn.co/image/59143fd34ea281c51d5e2e7243f7ac59f16c6402",
+            "genres": ["metal"]
+        },
+        "Sorrow": {
+            "name": "Sorrow",
+            "image": "https://i.scdn.co/image/8367282d003fc4e0742f0c28481f92b71a65862a",
+            "genres": ["electronic"]
+        },
+        "Mark Guiliana Jazz Quartet": {
+            "name": "Mark Guiliana Jazz Quartet",
+            "image": "https://i.scdn.co/image/c9a7a83ebe9477679480028c2a186e4bf713ecd2",
+            "genres": ["jazz"]
+        },
+        "Plini": {
+            "name": "Plini",
+            "image": "https://i.scdn.co/image/e65d808483f7676c4e49348c28fc04a959fb311a",
+            "genres": ["metal", "jazz"]
+        },
+        "Nate Smith": {
+            "name": "Nate Smith",
+            "image": "https://i.scdn.co/image/d08b24a2d234d4263768b78ba34ce3f685c6ab96",
+            "genres": ["jazz"]
+        },
+        "Burial": {
+            "name": "Burial",
+            "image": "https://i.scdn.co/image/867560cdb26864f71fdc47cde5e635bd37d81a0d",
+            "genres": ["electronic"]
+        },
+        "Jacob Collier": {
+            "name": "Jacob Collier",
+            "image": "https://i.scdn.co/image/2a0b0afb633abd807af7d582a79a44ec50a05ca3",
+            "genres": ["jazz"]
+        },
+        "Chee": {
+            "name": "Chee",
+            "image": "https://i.scdn.co/image/a5c865cd144a06c5c69881c5a9c4bf0157bee92c",
+            "genres": ["electronic"]
+        },
+        "Between The Buried And Me": {
+            "name": "Between The Buried And Me",
+            "image": "https://i.scdn.co/image/ca8a5e3f0378dcd8b34a36ea3c8f9d2374a6552c",
+            "genres": ["metal"]
+        },
+        "Vicente Garcia": {
+            "name": "Vicente Garcia",
+            "image": "https://i.scdn.co/image/c74c7b78adc3e0ab248268ce20aa00d60d184b11",
+            "genres": ["latin"]
+        },
+        "Vorso": {
+            "name": "Vorso",
+            "image": "https://i.scdn.co/image/bd44733a9e3c0e04361a69f417084ab78b87194e",
+            "genres": ["electronic"]
+        },
+        "Camo &amp; Krooked": {
+            "name": "Camo &amp; Krooked",
+            "image": "https://i.scdn.co/image/f994e9d0505e6a118d9f4c964ae702d3a2a9ba8b",
+            "genres": ["electronic"]
+        },
+        "Caligula's Horse": {
+            "name": "Caligula's Horse",
+            "image": "https://i.scdn.co/image/abe97255d954a7bd78faf624372c7b4a1939405d",
+            "genres": ["metal"]
+        },
+        "Kenny Garrett": {
+            "name": "Kenny Garrett",
+            "image": "https://i.scdn.co/image/dd7135d01d538b3934c7c2fdd53a0553d776b2b3",
+            "genres": ["jazz"]
+        },
+        "Frequent": {
+            "name": "Frequent",
+            "image": "https://i.scdn.co/image/1f1eb52c3712aa2fd8126a21e089d6f9a001e963",
+            "genres": ["electronic"]
+        },
+        "Thank You Scientist": {
+            "name": "Thank You Scientist",
+            "image": "https://i.scdn.co/image/2e30b64869206e13ca63b6d058727795c959d71f",
+            "genres": ["jazz"]
+        },
+        "Aether": {
+            "name": "Aether",
+            "image": "https://i.scdn.co/image/9ad9bd9c3a6afd59a349e9c051137064f8b1f893",
+            "genres": ["electronic"]
+        },
+        "Koven": {
+            "name": "Koven",
+            "image": "https://i.scdn.co/image/ccd9b2f37fddda1aac149da313248e4941509fce",
+            "genres": ["electronic"]
+        },
+        "Joe Ford": {
+            "name": "Joe Ford",
+            "image": "https://i.scdn.co/image/5773b406e7762c276638b308c6d56125ac97589f",
+            "genres": ["electronic"]
+        },
+        "Porcupine Tree": {
+            "name": "Porcupine Tree",
+            "image": "https://i.scdn.co/image/6992c0c104a9805d410ec2e7db3330467f9d4b54",
+            "genres": ["metal"]
+        },
+        "Phace": {
+            "name": "Phace",
+            "image": "https://i.scdn.co/image/ba95c395fd1bf9a5c20b16a368064334fbc472f0",
+            "genres": ["electronic"]
+        },
+        "Ibrahim Maalouf": {
+            "name": "Ibrahim Maalouf",
+            "image": "https://i.scdn.co/image/09f7d68defbcb2bada27bc824f0ec87070890866",
+            "genres": ["jazz"]
+        },
+        "Ivy Lab": {
+            "name": "Ivy Lab",
+            "image": "https://i.scdn.co/image/d1d6de0a7bc3cc88812593a9e26cdc5d607d5afb",
+            "genres": ["electronic"]
+        },
+        "Phronesis": {
+            "name": "Phronesis",
+            "image": "https://i.scdn.co/image/368093597e6bb395db4ac881b5d58100275c2ebd",
+            "genres": ["jazz"]
+        },
+        "Car Bomb": {
+            "name": "Car Bomb",
+            "image": "https://i.scdn.co/image/ab67616d00001e0202817738bfc59f3f7f81665b",
+            "genres": ["metal"]
+        },
+        "Hudson Lee": {
+            "name": "Hudson Lee",
+            "image": "https://i.scdn.co/image/c598e4340906ef5885fb95e0ebff2c9ffda5251e",
+            "genres": ["electronic"]
+        },
+        "Agent Fresco": {
+            "name": "Agent Fresco",
+            "image": "https://i.scdn.co/image/1228880eda98e90b04ce2b1a24c61a133787fae0",
+            "genres": ["metal"]
+        },
+        "Ekcle": {
+            "name": "Ekcle",
+            "image": "https://i.scdn.co/image/e37f5037897eb5970154e67eec99a55c495e4215",
+            "genres": ["electronic"]
+        },
+        "Snarky Puppy": {
+            "name": "Snarky Puppy",
+            "image": "https://i.scdn.co/image/d6840319edc9ca89a79d833539e5e52de58050b8",
+            "genres": ["jazz"]
+        },
+        "Afro Cuban Jazz Project": {
+            "name": "Afro Cuban Jazz Project",
+            "image": "https://i.scdn.co/image/ab67616d00001e0279b31af843c576d3034693b1",
+            "genres": [
+                "jazz",
+                "latin"
+            ]
+        },
+        "Chon": {
+            "name": "Chon",
+            "image": "https://i.scdn.co/image/44dadaa07bb5fc16683baf1a97db25e6b43ae29b",
+            "genres": ["metal"]
+        },
+        "Shubh Saran": {
+            "name": "Shubh Saran",
+            "image": "https://i.scdn.co/image/7aaec6a2da58705cd1c44d7be51ebb47467b4974",
+            "genres": ["jazz"]
+        },
+        "Steven Wilson": {
+            "name": "Steven Wilson",
+            "image": "https://i.scdn.co/image/13216b59793270fa0d88d8b989290ada4179f417",
+            "genres": ["metal"]
+        },
+        "Pomegranate Tiger": {
+            "name": "Pomegranate Tiger",
+            "image": "https://i.scdn.co/image/ab67616d00001e02aa103d933c6c6dfac60bbed6",
+            "genres": ["metal"]
+        },
+        "Clockvice": {
+            "name": "Clockvice",
+            "image": "https://i.scdn.co/image/764a21522e197783fb3121d1fc9408c42b97b6d7",
+            "genres": ["electronic"]
+        },
+        "Skope": {
+            "name": "Skope",
+            "image": "https://i.scdn.co/image/b0bb34afe58fa7eda8ff745638eb89c00aa3fe9d",
+            "genres": ["electronic"]
+        },
+        "Native Construct": {
+            "name": "Native Construct",
+            "image": "https://i.scdn.co/image/984e0b280f96dda39bc01a119daf9294eb820530",
+            "genres": ["metal"]
+        }
+    },
+    "Rafael": {
+        "Tigran Hamasyan": {
+            "name": "Tigran Hamasyan",
+            "image": "https://i.scdn.co/image/bfaf5778d577873a79b3cbfd9436eeabac7227a2",
+            "genres": [
+                "jazz",
+                "metal"
+            ]
+        },
+        "Mr. Bill": {
+            "name": "Mr. Bill",
+            "image": "https://i.scdn.co/image/33b38cf6c8b9f624670a10966515aba7e16a8981",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Noisia": {
+            "name": "Noisia",
+            "image": "https://i.scdn.co/image/557ff5a42a6521e32c5907ea8e0b02b0f3d6e356",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "KOAN Sound": {
+            "name": "KOAN Sound",
+            "image": "https://i.scdn.co/image/fdc9e8e05211214c8a4e06d9fa5f59a40e5abf78",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Plini": {
+            "name": "Plini",
+            "image": "https://i.scdn.co/image/e65d808483f7676c4e49348c28fc04a959fb311a",
+            "genres": [
+                "metal",
+                "jazz"
+            ]
+        },
+        "Machinedrum": {
+            "name": "Machinedrum",
+            "image": "https://i.scdn.co/image/8e4c403e33b1e63046634e09e60b4c44feebf97c",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Nate Smith": {
+            "name": "Nate Smith",
+            "image": "https://i.scdn.co/image/d08b24a2d234d4263768b78ba34ce3f685c6ab96",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "Mestis": {
+            "name": "Mestis",
+            "image": "https://i.scdn.co/image/a41d8242d6154964400cc17e6182d876679e546e",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Chon": {
+            "name": "Chon",
+            "image": "https://i.scdn.co/image/44dadaa07bb5fc16683baf1a97db25e6b43ae29b",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Between The Buried And Me": {
+            "name": "Between The Buried And Me",
+            "image": "https://i.scdn.co/image/ca8a5e3f0378dcd8b34a36ea3c8f9d2374a6552c",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Culprate": {
+            "name": "Culprate",
+            "image": "https://i.scdn.co/image/d0bb6d828d38d37306b1e727fc4a4e6e16296e6b",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Leprous": {
+            "name": "Leprous",
+            "image": "https://i.scdn.co/image/41b62b7e52f6d44330c92d8ec1a45c2423a085ad",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Victoria": {
+            "name": "Victoria",
+            "image": "https://i.scdn.co/image/cc35c88e5bf5b1dd71ef50e970ae37e282993f6c",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Mark Guiliana Jazz Quartet": {
+            "name": "Mark Guiliana Jazz Quartet",
+            "image": "https://i.scdn.co/image/c9a7a83ebe9477679480028c2a186e4bf713ecd2",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "Mefjus": {
+            "name": "Mefjus",
+            "image": "https://i.scdn.co/image/e24eeb0c21d8ecb0b00ef48b27b49ae273e2bdce",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "TesseracT": {
+            "name": "TesseracT",
+            "image": "https://i.scdn.co/image/69613b28d8aaf618494f0423d38e0f8675fc44c7",
+            "genres": [
+                "metal"
+            ]
+        },
+        "El Prodigio": {
+            "name": "El Prodigio",
+            "image": "https://i.scdn.co/image/28aa0e8fb35d202bbb636601fd9b06b12d4da40a",
+            "genres": [
+                "latin"
+            ]
+        },
+        "Meshuggah": {
+            "name": "Meshuggah",
+            "image": "https://i.scdn.co/image/ab6772690000bac3290beee3ed0d39aed7fa7107",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Ivy Lab": {
+            "name": "Ivy Lab",
+            "image": "https://i.scdn.co/image/d1d6de0a7bc3cc88812593a9e26cdc5d607d5afb",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Frequent": {
+            "name": "Frequent",
+            "image": "https://i.scdn.co/image/1f1eb52c3712aa2fd8126a21e089d6f9a001e963",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Vicente Garcia": {
+            "name": "Vicente Garcia",
+            "image": "https://i.scdn.co/image/c74c7b78adc3e0ab248268ce20aa00d60d184b11",
+            "genres": [
+                "latin"
+            ]
+        },
+        "Virtual Riot": {
+            "name": "Virtual Riot",
+            "image": "https://i.scdn.co/image/ce73e164878cdbd9e90e0dc790fe309a31a45ec8",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Hudson Lee": {
+            "name": "Hudson Lee",
+            "image": "https://i.scdn.co/image/c598e4340906ef5885fb95e0ebff2c9ffda5251e",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Sorrow": {
+            "name": "Sorrow",
+            "image": "https://i.scdn.co/image/8367282d003fc4e0742f0c28481f92b71a65862a",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Ekcle": {
+            "name": "Ekcle",
+            "image": "https://i.scdn.co/image/e37f5037897eb5970154e67eec99a55c495e4215",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Clown Core": {
+            "name": "Clown Core",
+            "image": "https://i.scdn.co/image/ab67616d00001e028e81331c45d5e74e4367aacc",
+            "genres": [
+                "electronic",
+                "jazz",
+                "metal"
+            ]
+        },
+        "Kenta Shimakawa": {
+            "name": "Kenta Shimakawa",
+            "image": "https://i.scdn.co/image/8316db8ea4ae305e233dbed1d3a3c61361ccadef",
+            "genres": [
+                "jazz",
+                "metal"
+            ]
+        },
+        "Car Bomb": {
+            "name": "Car Bomb",
+            "image": "https://i.scdn.co/image/ab67616d00001e0202817738bfc59f3f7f81665b",
+            "genres": [
+                "jazz",
+                "metal"
+            ]
+        },
+        "Alfredo Rodriguez": {
+            "name": "Alfredo Rodriguez",
+            "image": "https://i.scdn.co/image/b35d84acc21f7e7a7f8eaf2f1534d26465d9c850",
+            "genres": [
+                "jazz",
+                "latin"
+            ]
+        },
+        "Ruben Blades": {
+            "name": "Ruben Blades",
+            "image": "https://i.scdn.co/image/301c6043aaee17a7c5ff5dfa10076f57c17dbd4d",
+            "genres": [
+                "latin"
+            ]
+        },
+        "Riccie Oriach": {
+            "name": "Ruben Blades",
+            "image": "https://i.scdn.co/image/301c6043aaee17a7c5ff5dfa10076f57c17dbd4d",
+            "genres": [
+                "latin"
+            ]
+        },
+        "PhaseOne": {
+            "name": "PhaseOne",
+            "image": "https://i.scdn.co/image/562774882182e8a05e3fc768faa1d639e30b1167",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Jaga Jazzist": {
+            "name": "Jaga Jazzist",
+            "image": "https://i.scdn.co/image/66c586e4496d4cca0345d12954b2bea750bdc9ef",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "Chee": {
+            "name": "Chee",
+            "image": "https://i.scdn.co/image/a5c865cd144a06c5c69881c5a9c4bf0157bee92c",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "The Contortionist": {
+            "name": "The Contortionist",
+            "image": "https://i.scdn.co/image/59143fd34ea281c51d5e2e7243f7ac59f16c6402",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Native Construct": {
+            "name": "Native Construct",
+            "image": "https://i.scdn.co/image/984e0b280f96dda39bc01a119daf9294eb820530",
+            "genres": [
+                "metal"
+            ]
+        },
+        "Thundercat": {
+            "name": "Thundercat",
+            "image": "https://i.scdn.co/image/871a3437240ff355903f11e577dd44ff16c005b8",
+            "genres": [
+                "jazz",
+                "funk",
+                "soul"
+            ]
+        },
+        "TRAM": {
+            "name": "TRAM",
+            "image": "https://i.scdn.co/image/ab67616d00001e029e19f50b336392bdb6fcc83a",
+            "genres": [
+                "jazz",
+                "metal"
+            ]
+        },
+        "Bill Evans Trio": {
+            "name": "Bill Evans Trio",
+            "image": "https://i.scdn.co/image/66d7744aa791b7edfd287156c3c78f2e4498984c",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "Phace": {
+            "name": "Phace",
+            "image": "https://i.scdn.co/image/ba95c395fd1bf9a5c20b16a368064334fbc472f0",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Thraillkill": {
+            "name": "Thraillkill",
+            "image": "https://i.scdn.co/image/ab67616d00001e02885712226344c7001bf93ca5",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Vorso": {
+            "name": "Vorso",
+            "image": "https://i.scdn.co/image/bd44733a9e3c0e04361a69f417084ab78b87194e",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Kenny Garrett": {
+            "name": "Kenny Garrett",
+            "image": "https://i.scdn.co/image/dd7135d01d538b3934c7c2fdd53a0553d776b2b3",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "Afro Cuban Jazz Project": {
+            "name": "Afro Cuban Jazz Project",
+            "image": "https://i.scdn.co/image/ab67616d00001e0279b31af843c576d3034693b1",
+            "genres": [
+                "jazz",
+                "latin"
+            ]
+        },
+        "Joe Ford": {
+            "name": "Joe Ford",
+            "image": "https://i.scdn.co/image/5773b406e7762c276638b308c6d56125ac97589f",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Vulgatron": {
+            "name": "Vulgatron",
+            "image": "https://i.scdn.co/image/5773b406e7762c276638b308c6d56125ac97589f",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Koven": {
+            "name": "Koven",
+            "image": "https://i.scdn.co/image/ccd9b2f37fddda1aac149da313248e4941509fce",
+            "genres": [
+                "electronic"
+            ]
+        },
+        "Vince Guaraldi Trio": {
+            "name": "Vince Guaraldi trio",
+            "image": "https://i.scdn.co/image/2c2dbcbc0bce3aa7c0bca4f114ffec7a90688999",
+            "genres": [
+                "jazz"
+            ]
+        },
+        "Animals As Leaders": {
+            "name": "Animals As Leaders",
+            "image": "https://i.scdn.co/image/00fe9e7e4353d913c0d3d2623adf48ad932838a7",
+            "genres": [
+                "jazz",
+                "metal"
+            ]
+        }
+    }
+}
