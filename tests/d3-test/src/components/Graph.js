@@ -14,6 +14,7 @@ class Graph extends Component {
     componentDidUpdate() {
         this.createGraph()
     }
+    // This builds the actual graph
     createGraph() {
         const NODE = this.node;
 
@@ -26,18 +27,14 @@ class Graph extends Component {
             soul: "#90A959"
         };
 
-        const node_colors = {
-             elisson: "#151515",
-             rafael: "#A63D40",
-             both: "#E9B872",
-        };
-
+        // Centers the graph view based on passed-in width and height parameter
         select(NODE)
             .attr(
                 "viewBox", 
                 [-this.props.width / 2, -this.props.height / 2, this.props.width, this.props.height]
             );
 
+        // Function implements dragging behavior of nodes
         function drag(simulation) {
 
             function dragstarted(event, d) {
@@ -63,22 +60,24 @@ class Graph extends Component {
                 .on("end", dragended);
         }
 
+        // Determines which color should be assigned to a node based off of genre
+        // TODO: Generalize such that this doesn't depend on hard-coded dummy data genres
         function node_color(d) {
-            // const scale = d3.scaleOrdinal(d3.schemeCategory10);
-            // return d => scale(d.group);
-            // return node_colors[d.__proto__.source];
             return link_colors[d.__proto__.genres[0]];
         }
 
+        // Right now, the color for links is static, no matter what
         function link_color(d) {
             return "#171717";
         }
 
+        // Passed in graph
         const graph = this.props.graph
 
         const links = graph.links.map(d => Object.create(d));
         const nodes = graph.nodes.map(d => Object.create(d));
 
+        // Force simulation treats nodes as "particles" with repelling and attracting forces
         const simulation = d3.forceSimulation(nodes)
             // .force("link", d3.forceLink(links).id(d => d.id).distance(200).strength(0.1))
             .force("charge", d3.forceManyBody(links).strength(-200))
@@ -93,6 +92,7 @@ class Graph extends Component {
             }))
             .force("y", d3.forceY());
         
+        // Give link properties
         const link = select(NODE)
             .attr("stroke-opacity", 0)
             .selectAll("line")
@@ -102,6 +102,7 @@ class Graph extends Component {
             .attr("stroke-width", 1)
             .attr("stroke-opacity", 0.07);
         
+        // Give node properties
         const node = select(NODE)
             .attr("stroke", "#171717")
             .attr("stroke-opacity", 1)
@@ -114,12 +115,9 @@ class Graph extends Component {
             .attr("r", 10)
             .attr("fill", d => node_color(d))
             .call(drag(simulation))
-            
-        node.append("svg:label")
-            .attr("dx", 12)
-            .attr("dy", ".35em")
-            .text(function (d) { return d.id });
-
+        
+        // Append labels to nodes
+        // Label appears based on node hover behavior thanks to CSS (look at App.css)
         var labels = select(NODE)
             .selectAll("g")
             .append("text")
@@ -128,7 +126,7 @@ class Graph extends Component {
             .attr("dy", ".35em")
             .text(function (d) { return d.id });
 
-        
+        // What to do when there has been a layout change in the grap
         simulation.on("tick", () => {
             link
                 .attr("x1", d => d.source.x)
@@ -146,6 +144,7 @@ class Graph extends Component {
         });
     }
 
+    // Render the actual graph, appending it to an SVG (scaleable vector graphic.) using ref
     render() {
         return <svg className=".svg-container" ref={node => this.node = node}
             width={this.props.width} height={this.props.height}>
